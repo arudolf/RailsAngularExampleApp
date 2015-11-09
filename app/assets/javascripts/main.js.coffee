@@ -18,6 +18,11 @@ RailsAngularApp.config(['$urlRouterProvider', '$stateProvider', '$controllerProv
       templateUrl: '../assets/main/index.html',
       controller: 'MainCtrl'
     })
+    .state('stateMainAbout', {
+      url: "/about",
+      templateUrl: '../assets/main/index.html',
+      controller: 'AboutCtrl'
+    })
 
   $controllerProvider.allowGlobals()
 ])
