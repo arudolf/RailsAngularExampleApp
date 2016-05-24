@@ -1,5 +1,5 @@
 @MainCtrl = ($scope) ->
-  $scope.title = "Home Page"
+  $scope.title = "Home"
   $scope.text = "Lorem ipsum dolor sit amet, est an dicant apeirian pertinacia, his ex integre minimum. Nihil zril perfecto ut vim, in pro agam iisque, te sea alia omnium indoctum. Ut usu integre scribentur. Ne cibo quando conclusionemque eos, pri ea nostro constituto intellegebat, veniam suavitate est eu. Nam an erat porro libris. No nam doctus quaestio, mei cu movet tation. \
                   At pri soleat quodsi iuvaret, id vero vocibus mediocrem sea, duo ad diceret accumsan. Ad has vitae euripidis abhorreant, ei vide ullum vim. Eos quem invidunt cu, elitr numquam mnesarchum ut sit, duo ut malorum maiorum fuisset. Ad graece saperet lobortis cum, pri ad quod offendit. At tritani epicurei persecuti est, id nam reque movet. Ex sea libris dictas omnium, an dictas epicuri propriae cum.
                   Id eum mucius invidunt, ad diam laoreet mea, hinc erant ad vim. Nam at inani aliquid copiosae, ea eum aeque omittam. In erant comprehensam sed, ius novum imperdiet referrentur id. Denique appellantur theophrastus no vis, an est posidonium neglegentur. Eu has libris option, id mea nonumes periculis.
